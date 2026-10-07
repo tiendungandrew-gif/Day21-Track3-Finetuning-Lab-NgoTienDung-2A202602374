@@ -139,4 +139,4 @@ Nếu bài toán chỉ đơn thuần là một microservice độc lập chạy 
 - [ ] B2 dataset miền riêng (`data/CUSTOM_DATASET.md`)
 - [ ] B3 reasoning-trace collapse (hai `MASK_MODE`, kèm `valid_trace_rate`)
 - [ ] B4 quét rank có kiểm soát
-- [ ] B5 HuggingFace Hub — link:
+- [x] B5 HuggingFace Hub — link: https://huggingface.co/tiendungn/lab21-qwen35-triage-vi
